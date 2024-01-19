@@ -1,0 +1,14 @@
+Package: rfareto
+Title: Visualize r5r results using Conveyal's Fareto tool
+Version: 0.0.0.9000
+Authors@R: 
+    person("Matthew", "Bhagat-Conway", , "mwbc@unc.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Visualize r5r results using Conveyal's Fareto tool.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    servr,
+    uuid
